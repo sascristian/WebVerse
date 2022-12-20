@@ -52,7 +52,7 @@ npm install -g cli aws-sdk
 if [ "$SERVE_CLIENT_FROM_STORAGE_PROVIDER" = "true" ] && [ "$STORAGE_PROVIDER" = "aws" ] ; then npm run list-client-s3-files-to-delete ; fi
 
 bash ./scripts/build_and_publish_package.sh $RELEASE_NAME $DOCKER_LABEL api $START_TIME $PRIVATE_ECR $AWS_REGION $NODE_ENV >api-build-logs.txt 2>api-build-error.txt &
-bash ./scripts/build_and_publish_package.sh $RELEASE_NAME $DOCKER_LABEL client $START_TIME $PRIVATE_ECR $AWS_REGION $NODE_ENV >client-build-logs.txt 2>client-build-error.txt &
+#bash ./scripts/build_and_publish_package.sh $RELEASE_NAME $DOCKER_LABEL client $START_TIME $PRIVATE_ECR $AWS_REGION $NODE_ENV >client-build-logs.txt 2>client-build-error.txt &
 bash ./scripts/build_and_publish_package.sh $RELEASE_NAME $DOCKER_LABEL instanceserver $START_TIME $PRIVATE_ECR $AWS_REGION $NODE_ENV >instanceserver-build-logs.txt 2>instanceserver-build-error.txt &
 bash ./scripts/build_and_publish_package.sh $RELEASE_NAME $DOCKER_LABEL taskserver $START_TIME $PRIVATE_ECR $AWS_REGION $NODE_ENV >taskserver-build-logs.txt 2>taskserver-build-error.txt &
 #bash ./scripts/build_and_publish_package.sh $RELEASE_NAME $DOCKER_LABEL testbot $START_TIME $PRIVATE_ECR $AWS_REGION $NODE_ENV >testbot-build-logs.txt 2>testbot-build-error.txt && &
@@ -75,7 +75,7 @@ if [ $PUBLISH_DOCKERHUB == 'true' ]
 then
   echo "$DOCKER_HUB_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   bash ./scripts/publish_dockerhub.sh ${TAG}__${START_TIME} $DOCKER_LABEL api &
-  bash ./scripts/publish_dockerhub.sh ${TAG}__${START_TIME} $DOCKER_LABEL client &
+#  bash ./scripts/publish_dockerhub.sh ${TAG}__${START_TIME} $DOCKER_LABEL client &
   bash ./scripts/publish_dockerhub.sh ${TAG}__${START_TIME} $DOCKER_LABEL instanceserver &
   bash ./scripts/publish_dockerhub.sh ${TAG}__${START_TIME} $DOCKER_LABEL taskserver &
   bash ./scripts/publish_dockerhub.sh ${TAG}__${START_TIME} $DOCKER_LABEL testbot &

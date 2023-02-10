@@ -25,8 +25,8 @@ The Metaverse Is The Next Generation Of The Internet.
 
 https://user-images.githubusercontent.com/507127/142818955-51d7757f-a432-45da-8f8f-56037358ad58.mp4
 
-We ([Ethereal Engine](https://github.com/xrfoundation)) believe that the Metaverse, 
-Web AR, VR, and XR should be easy.
+
+As One Of Its Earliest Explorers, You Will Help Fuel Its Expansion And Share In The Benefits Of This Growth.
 
 We want a Star Trek future where participating in immersive communication 
 technology and shared simulations should be as easy and natural as making a website.

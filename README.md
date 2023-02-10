@@ -1,8 +1,10 @@
 # WebVerse _(WebVerse)_
 
-![Ethereal Engine logo]()
 
->  Manifest your dreams on the open social spatial web.
+WebVerse Will Be The Best Choice For Your Next Project.
+
+Building The Metaverse For Next Gaming World
+The Metaverse Is The Next Generation Of The Internet.
 
 ## Table of Contents
 
@@ -136,14 +138,7 @@ We are always hiring talented people who want to be leaders in what is to come.
 Inquire with anyone who seems like they know what's going on and they'll help 
 you find who you need to talk to.
 
-![msf-member-badge-small](https://user-images.githubusercontent.com/5104160/181168132-57a91f8b-16c9-45f0-a0ee-c89f8f018a80.png)
-
-### [Join our Discord](https://discord.gg/xrf)  [![Discord Chat](https://img.shields.io/discord/692672143053422678.svg)](https://discord.gg/xrf)
-
-### [Sponsorship](https://opencollective.com/etherealengine) [![Open Collective](https://opencollective.com/etherealengine/tiers/badge.svg)](https://opencollective.com/etherealengine)
-
 ## License
-[MIT](LICENSE) - Copyright (c) 2020-2022 Ethereal Engine team, formerly known as XREngine by XR Foundation
-
+[MIT](LICENSE) - Copyright (c) 2020-2022 
 
 [Release History and Author Archive](/HISTORY.md)

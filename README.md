@@ -139,6 +139,6 @@ Inquire with anyone who seems like they know what's going on and they'll help
 you find who you need to talk to.
 
 ## License
-[MIT](LICENSE) - Copyright (c) 2020-2022 
+[MIT](LICENSE) - Copyright (c) 2020-2023
 
 [Release History and Author Archive](/HISTORY.md)

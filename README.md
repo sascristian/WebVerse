@@ -138,6 +138,8 @@ We are always hiring talented people who want to be leaders in what is to come.
 Inquire with anyone who seems like they know what's going on and they'll help 
 you find who you need to talk to.
 
+<img src="https://themesflat.co/risebothtml/assets/images/slider/Furore.png" alt="">
+
 ## License
 [MIT](LICENSE) - Copyright (c) 2020-2023
 

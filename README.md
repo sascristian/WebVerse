@@ -1,5 +1,5 @@
 # WebVerse _(WebVerse)_
-<img class="move4" src="./assets/images/common/img_cta.png" alt="">
+<img src="https://themesflat.co/risebothtml/assets/images/common/img_cta.png" alt="">
 
 WebVerse Will Be The Best Choice For Your Next Project.
 

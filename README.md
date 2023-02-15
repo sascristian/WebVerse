@@ -1,11 +1,11 @@
-<img src="https://themesflat.co/risebothtml/assets/images/common/project_19.png" alt=""> # WebVerse _(WebVerse)_
+ # WebVerse _(WebVerse)_
 <img src="https://themesflat.co/risebothtml/assets/images/common/img_cta.png" alt="">
 
 WebVerse Will Be The Best Choice For Your Next Project.
 
 Building The Metaverse For Next Gaming World
 The Metaverse Is The Next Generation Of The Internet.
-
+<img src="https://themesflat.co/risebothtml/assets/images/common/project_19.png" alt="">
 ## Table of Contents
 
 - [Background](#background)
